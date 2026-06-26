@@ -1,0 +1,9 @@
+{
+  "name": "notification-app-be",
+  "version": "1.0.0",
+  "description": "Notification app backend sample using logging-middleware",
+  "main": "index.js",
+  "dependencies": {
+    "logging-middleware": "file:../logging-middleware"
+  }
+}
